@@ -11,6 +11,7 @@
 		CF94FAB82B4F411C00D077CB /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CF94FAB72B4F411C00D077CB /* ContentView.swift */; };
 		CF94FABA2B4F411E00D077CB /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CF94FAB92B4F411E00D077CB /* Assets.xcassets */; };
 		CF94FABD2B4F411E00D077CB /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CF94FABC2B4F411E00D077CB /* Preview Assets.xcassets */; };
+		CF94FAC42B4F4E1E00D077CB /* CustomButtonView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CF94FAC32B4F4E1E00D077CB /* CustomButtonView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		CF94FAB72B4F411C00D077CB /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		CF94FAB92B4F411E00D077CB /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		CF94FABC2B4F411E00D077CB /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		CF94FAC32B4F4E1E00D077CB /* CustomButtonView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomButtonView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				CF94FAB52B4F411C00D077CB /* CapFunApp.swift */,
 				CF94FAB72B4F411C00D077CB /* ContentView.swift */,
+				CF94FAC32B4F4E1E00D077CB /* CustomButtonView.swift */,
 				CF94FAB92B4F411E00D077CB /* Assets.xcassets */,
 				CF94FABB2B4F411E00D077CB /* Preview Content */,
 			);
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				CF94FAC42B4F4E1E00D077CB /* CustomButtonView.swift in Sources */,
 				CF94FAB82B4F411C00D077CB /* ContentView.swift in Sources */,
 				CF94FAB62B4F411C00D077CB /* CapFunApp.swift in Sources */,
 			);
